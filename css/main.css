@@ -1,0 +1,64 @@
+h1 {
+    color: #8E26C0;
+    text-align: center;
+    font-size: 64px;
+}
+
+p {
+    display: inline;
+}
+#chance {
+    padding: 24px 40px;
+    color: #FF0000;
+    background: #FFE8E8;
+    width: 485px;
+    height: 38px;
+    font-size: 32px;
+    margin: 20px;
+}
+
+#exclusive {
+    color: #85647B;
+    border-right: 6px solid #05F;
+    border-left: 4px solid #C11574;
+    border-bottom: 2px solid #7F56D9;
+    border-top: 2px solid #00C76E;
+    padding: 24px 40px;
+    width: 943px;
+    height: 96px;
+    font-size: 40px;
+    text-align: center;
+    margin: 20px;
+}
+#season {
+    padding: 24px 40px;
+    color: #414651;
+    width: 943px;
+    height: 85px;
+    font-size: 32px;
+    background: #FFE8E8;
+    text-align: center;
+    margin: 20px;
+}
+
+span {
+    font-size: 40px;
+    color: #FF4405;
+}
+
+#longShop {
+    border: 2px solid #3538CD;
+    color: #0064CE;
+    font-size: 32px;
+    width: 989px;
+    height: 38px;
+    margin: 20px;
+    text-align: right;
+    padding: 24px 40px;
+}
+
+img {
+    width: 556px;
+    height: 347px;
+    margin: 20px;
+}
